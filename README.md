@@ -5,3 +5,4 @@ This project aims to utilize data from the WHO database to examine the impact of
 **Links to Data and Other Sources Used:**
 
 Link to WHO data: https://www.who.int/en/
+Link to WHO Data respository: https://www.who.int/data/gho/data/major-themes/health-emergencies
